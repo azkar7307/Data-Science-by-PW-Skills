@@ -2,6 +2,11 @@
     "recommendations": [
         "ms-python.python",
         "ms-toolsai.jupyter",
-        "ms-toolsai.jupyter-keymap"
+        "ms-toolsai.jupyter-keymap",
+        "esbenp.prettier-vscode",
+        "ms-toolsai.jupyter-renderers",
+        "magicstack.magicpython",
+        "tht13.python",
+        "janisdd.vscode-edit-csv"
     ]
 }
