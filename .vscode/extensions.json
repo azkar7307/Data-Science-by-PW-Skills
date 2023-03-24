@@ -5,7 +5,6 @@
         "ms-toolsai.jupyter-keymap",
         "esbenp.prettier-vscode",
         "ms-toolsai.jupyter-renderers",
-        "magicstack.magicpython",
-        "janisdd.vscode-edit-csv"
+        "magicstack.magicpython"
     ]
 }
