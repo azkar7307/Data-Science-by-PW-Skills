@@ -1,0 +1,10 @@
+treatment,gender,score
+A,Male,12
+B,Male,14
+C,Male,10
+A,Female,16
+B,Female,18
+C,Female,20
+A,Male,8
+B,Male,10
+C,Male,12
